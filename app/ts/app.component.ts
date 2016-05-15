@@ -1,7 +1,7 @@
 import {Component} from 'angular2/core';
 
 @Component({
-    selector: 'my-app',
+    selector: 'blazter',
     template: '<h1>Vicente Fernando Noriega</h1>'
 })
 
